@@ -1,2 +1,2 @@
 # nfl-stats
-An analysis of NFL statistics up to 2016
+An analysis notebook of NFL statistics data from 1926 to 2016
